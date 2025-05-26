@@ -8,6 +8,7 @@ import Side from './components/Home/Side'
 import Case from './components/Home/Case'
 import Work from './components/Home/Work'
 import Team from './components/Home/Team'
+import Fotter from './components/Home/Fotter'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Case/>
         <Work/>
         <Team/>
+        <Fotter/>
       </div>
      
     </>
